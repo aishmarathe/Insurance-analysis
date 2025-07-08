@@ -4,7 +4,7 @@ This project presents a comprehensive analysis of insurance data using **Microso
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The dashboard was built using Power BI Desktop and contains interactive visuals aimed at exploring:
 
@@ -17,14 +17,14 @@ The dashboard was built using Power BI Desktop and contains interactive visuals 
 
 ---
 
-## 📁 File Details
+## File Details
 
 - `project2.pbix`: The Power BI dashboard file.  
   Open it using Power BI Desktop (version 2022 or later recommended).
 
 ---
 
-## 🔍 Key Visuals
+## Key Visuals
 
 - **Bar Charts** for policy and region comparisons  
 - **Line Graphs** to show trends over time  
@@ -33,7 +33,7 @@ The dashboard was built using Power BI Desktop and contains interactive visuals 
 
 ---
 
-## 🧠 Insights Derived
+## Insights Derived
 
 - Identification of high-claim customer segments
 - Regional performance comparison for insurance sales
@@ -42,7 +42,7 @@ The dashboard was built using Power BI Desktop and contains interactive visuals 
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Open it in **Power BI Desktop**.
@@ -51,20 +51,16 @@ The dashboard was built using Power BI Desktop and contains interactive visuals 
 
 ---
 
-## 📌 Tools Used
+## Tools Used
 
 - **Microsoft Power BI Desktop**
 - **Data Transformation using Power Query**
 ---
 
-## 📬 Contact
+## Contact
 
 For any questions or suggestions, feel free to connect:  
 **Aishwarya Marathe**  
 [LinkedIn] - https://www.linkedin.com/in/aishwarya-marathe-2aa66a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
